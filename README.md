@@ -136,7 +136,7 @@ custom build configurations look for `.mjs` files!
 
 ### Contributing
 
-We actively welcome pull requests. Learn how to [contribute](./.github/CONTRIBUTING.md).
+We actively welcome pull all requests. Learn how to [contribute](./.github/CONTRIBUTING.md).
 
 This repository is managed by EasyCLA. Project participants must sign the free ([GraphQL Specification Membership agreement](https://preview-spec-membership.graphql.org) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](http://individual-spec-membership.graphql.org/) or their [employers](http://corporate-spec-membership.graphql.org/).
 
