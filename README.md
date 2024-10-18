@@ -1,6 +1,6 @@
 [![GraphQLConf 2024 Banner: September 10-12, San Francisco. Hosted by the GraphQL Foundation](https://github.com/user-attachments/assets/2d048502-e5b2-4e9d-a02a-50b841824de6)](https://graphql.org/conf/2024/?utm_source=github&utm_medium=graphql_js&utm_campaign=readme)
 
-# GraphQL.js
+# GraphQL.js triggers codspeed runs again and again
 
 The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
 
@@ -136,7 +136,7 @@ custom build configurations look for `.mjs` files!
 
 ### Contributing
 
-We actively welcome pull requests. Learn how to [contribute](./.github/CONTRIBUTING.md).
+We actively welcome pull all requests. Learn how to [contribute](./.github/CONTRIBUTING.md).
 
 This repository is managed by EasyCLA. Project participants must sign the free ([GraphQL Specification Membership agreement](https://preview-spec-membership.graphql.org) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](http://individual-spec-membership.graphql.org/) or their [employers](http://corporate-spec-membership.graphql.org/).
 
