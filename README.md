@@ -1,6 +1,6 @@
 [![GraphQLConf 2024 Banner: September 10-12, San Francisco. Hosted by the GraphQL Foundation](https://github.com/user-attachments/assets/2d048502-e5b2-4e9d-a02a-50b841824de6)](https://graphql.org/conf/2024/?utm_source=github&utm_medium=graphql_js&utm_campaign=readme)
 
-# GraphQL.js
+# GraphQL.js triggers codspeed runs again and again
 
 The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
 
@@ -144,7 +144,7 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 You can find [detailed information here](https://github.com/graphql/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
 
-If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
+If your company asdadssadsbenefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
 
 ### Changelog
 
